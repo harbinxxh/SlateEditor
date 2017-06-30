@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{4C010AE3-458B-CFF9-B874-86A9790BE089}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SlateEditor",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
